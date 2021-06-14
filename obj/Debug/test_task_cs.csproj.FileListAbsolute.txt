@@ -1,0 +1,12 @@
+D:\repos\test_task_cs\bin\Debug\TestDB.mdf
+D:\repos\test_task_cs\bin\Debug\TestDB_log.ldf
+D:\repos\test_task_cs\bin\Debug\test_task_cs.exe.config
+D:\repos\test_task_cs\bin\Debug\test_task_cs.exe
+D:\repos\test_task_cs\bin\Debug\test_task_cs.pdb
+D:\repos\test_task_cs\obj\Debug\test_task_cs.csproj.AssemblyReference.cache
+D:\repos\test_task_cs\obj\Debug\test_task_cs.Form1.resources
+D:\repos\test_task_cs\obj\Debug\test_task_cs.Properties.Resources.resources
+D:\repos\test_task_cs\obj\Debug\test_task_cs.csproj.GenerateResource.cache
+D:\repos\test_task_cs\obj\Debug\test_task_cs.csproj.CoreCompileInputs.cache
+D:\repos\test_task_cs\obj\Debug\test_task_cs.exe
+D:\repos\test_task_cs\obj\Debug\test_task_cs.pdb
